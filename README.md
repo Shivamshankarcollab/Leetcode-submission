@@ -21,11 +21,13 @@
 | [0012-integer-to-roman](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0283-move-zeroes) |
 ## Counting Sort
 |  |
@@ -67,4 +70,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
