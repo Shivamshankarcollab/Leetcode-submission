@@ -18,9 +18,11 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0012-integer-to-roman) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
