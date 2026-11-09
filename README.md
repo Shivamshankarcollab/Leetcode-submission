@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1051-height-checker) |
@@ -24,11 +25,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [1051-height-checker](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0283-move-zeroes) |
 ## Counting Sort
 |  |
