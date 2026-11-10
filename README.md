@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1051-height-checker) |
@@ -22,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +76,24 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
