@@ -25,6 +25,7 @@
 | [0069-sqrtx](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1952-three-divisors) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,10 +82,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1952-three-divisors) |
 ## Primality Test
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -101,4 +105,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1672-richest-customer-wealth) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
