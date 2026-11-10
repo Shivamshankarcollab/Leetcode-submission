@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
