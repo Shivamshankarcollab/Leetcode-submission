@@ -11,6 +11,7 @@
 | [1051-height-checker](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1672-richest-customer-wealth) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
