@@ -11,6 +11,7 @@
 | [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1672-richest-customer-wealth) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
@@ -54,6 +56,7 @@
 | [0283-move-zeroes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
