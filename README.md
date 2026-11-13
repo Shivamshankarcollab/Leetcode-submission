@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
@@ -84,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Newton's Method
