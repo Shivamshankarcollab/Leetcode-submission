@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
@@ -42,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0125-valid-palindrome) |
