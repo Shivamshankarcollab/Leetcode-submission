@@ -58,6 +58,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0876-middle-of-the-linked-list) |
+| [0925-long-pressed-name](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
@@ -89,6 +90,7 @@
 | [0344-reverse-string](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0925-long-pressed-name) |
 ## Binary Search
 |  |
 | ------- |
