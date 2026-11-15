@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0204-count-primes) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +59,7 @@
 | [0015-3sum](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -75,6 +78,7 @@
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/1051-height-checker) |
 ## Linked List
 |  |
@@ -157,4 +161,8 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0844-backspace-string-compare) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shivamshankarcollab/Leetcode-submission/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
